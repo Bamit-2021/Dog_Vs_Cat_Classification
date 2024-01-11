@@ -1,6 +1,6 @@
-## **Dog_Vs_Cat_Classification**
+# **Dog_Vs_Cat_Classification**
 
-# Business Case Study
+## Business Case Study
 
 # Feature of Dataset
 ![image](https://github.com/Bamit-2021/Dog_Vs_Cat_Classification/assets/77608956/bfa71b7f-4d52-4d85-a8ac-1da885e51109)
