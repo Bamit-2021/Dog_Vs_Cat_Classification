@@ -1,4 +1,4 @@
-## Dog_Vs_Cat_Classification
+## **Dog_Vs_Cat_Classification**
 
 # Business Case Study
 
